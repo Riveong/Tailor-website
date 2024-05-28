@@ -1,38 +1,10 @@
-# create-svelte
-
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Hiya! Riveong here, it's been a while since I make a documentation. Since it's my first time in months, I would like to start with giving you guys brief summary of my life now. About months ago I started my frontend journey. I tried nextjs, reactjs, and etc. I don't like them because they are tiring. BUT THEN I FOUND SVELTE! it's so simple. There you go my sum of what's going on to my life. now about time we discuss what repo is this.  
+# What?  
+Tailor website based on semarang Indonesia.
+# Why?  
+My client asked me.  
+# How?  
+Am using svelte to make the website and deploy it to vercel  
+## how to run  
+`npm run dev` to start npm and vite  
+![idk](https://media1.tenor.com/m/aQa-4syzp4AAAAAC/nge-rei-ayanami.gif)
